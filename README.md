@@ -1,6 +1,6 @@
 ## Problem Statement:
 
-## Build a Machine Learning model , which will help the management to Identify the potential candidates (good candidate to offer job) for both the roles (Web Development and Data Scientist) from the given data.
+Build a Machine Learning model , which will help the management to Identify the potential candidates (good candidate to offer job) for both the roles (Web Development and Data Scientist) from the given data.
 
 ## Solution Approch:
 
@@ -10,7 +10,7 @@
 * Providing the Weight to Given skills, Other Skills and Academics
 * Using K-mean clustering to make clusters
 ## Output Insight
-Candidate for Data Science & Web Dev both: 58 out of 392
-Candidate for Data Science: 82 out of 392
-Candidate for Web Developer: 107 out of 392
-Candidates that are Not Eligible: 145 out of 392
+* Candidate for Data Science & Web Dev both: 58 out of 392
+* Candidate for Data Science: 82 out of 392
+* Candidate for Web Developer: 107 out of 392
+* Candidates that are Not Eligible: 145 out of 392
